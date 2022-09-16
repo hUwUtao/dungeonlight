@@ -1,0 +1,6 @@
+#! /bin/bash
+[ ! -d build ] mkdir build
+rm -rv build/*
+cd build
+cmake ..
+cmake --build .
