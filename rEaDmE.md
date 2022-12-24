@@ -1,4 +1,4 @@
-# Dungeon engine - a 2D game engine built on top of [Ultralight](https://ultralig.ht/) and [PixiJS](https://pixijs.com/)
+# Dungeon engine - a 2D game engine built on top of [Ultralight](https://ultralig.ht/) and [PixiJS](https://pixijs.com/) (sorry my brain just sh***ing around that time)
 
 ## How to start/build
 
